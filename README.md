@@ -26,7 +26,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Bun.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=bun.js&logoColor=339933)
+![Bun.js](https://img.shields.io/badge/-bun.js-000000?style=flat&logo=bun.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
