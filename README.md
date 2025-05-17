@@ -28,7 +28,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E)
-![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io&logoColor=010101)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
