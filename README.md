@@ -47,5 +47,5 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D6)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=ffffff)
